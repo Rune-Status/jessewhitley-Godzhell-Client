@@ -1,0 +1,4 @@
+@ECHO OFF
+TITLE GodzHell
+JAVA -Xmx500m EGUI
+PAUSE

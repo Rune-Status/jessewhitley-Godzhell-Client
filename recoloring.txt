@@ -1,0 +1,100 @@
+#################################################
+###########Galkons Recoloring Guide##############
+#################################################
+
+Okay, this is my guide to recoloring. It has all the basic information you need.
+
+Step 1: Find an item you want to recolor. There are some items in class8.java
+
+Step 2: Here is a "map" on what is what:
+
+if(i == ####){//item ID
+class8.aStringArray189 = new String[5];//dont need to change
+class8.aStringArray189[1] = "Wear";//equip type
+class8.anIntArray156 = new int[1];//NUMBER OF ORIGINAL COLORS
+class8.anIntArray160 = new int [1];//NUMBER OF CHANGED COLORS
+class8.anIntArray156[0] = 926;//ORIGINAL COLOR, 926 = dragon red
+class8.anIntArray160[0] = 128;//CHANGED COLOR(want to know this)
+class8.anInt174 = 2635;
+class8.anInt181 = 440;
+class8.anInt190 = 76;
+class8.anInt198 = 1850;
+class8.anInt204 = 0;
+class8.anInt169 = 1;
+class8.anInt194 = 1;
+class8.anInt165 = 187;
+class8.anInt200 = 363;
+class8.anInt175 = 29;
+class8.anInt197 = 87;
+class8.aString170 = "Item";//ITEM NAME
+class8.aByteArray178 = "Item Description".getBytes();//ITEM DESCRIPTION (EXAMINE INFO)
+}
+
+Step 3: Understanding the color ints.
+
+
+class8.anIntArray156 = new int[1];          <--- This is the amount of original colors, this says there is 1 color
+
+class8.anIntArray156[0] = 926;           <--- This is the first, and only original color. The colors always start at [0]
+
+class8.anIntArray160 = new int [1];         <--- This is the amount of changed color, this says there is 1 color
+
+class8.anIntArray160[0] = 128;          <--- This is the first, and only changed color, this is the first color, its [0]
+
+
+If an item has more than 1 color, you will need more than 1 int. An item with more than one color would look like this:
+
+if(i == ####){//item ID
+class8.aStringArray189 = new String[5];
+class8.aStringArray189[1] = "Wear";
+class8.anIntArray156 = new int[4];       <---- 4 original colors
+class8.anIntArray160 = new int [4];        <---- 4 changed colors
+class8.anIntArray156[0] = 1;     \
+class8.anIntArray160[0] = 2;	  \
+class8.anIntArray156[1] = 3;	   \
+class8.anIntArray160[1] = 4;	    \These are all the original and changed colors. 156 being original, 160 being changed
+class8.anIntArray156[2] = 5;	    /
+class8.anIntArray160[2] = 6;	   /
+class8.anIntArray156[3] = 7;      /
+class8.anIntArray160[3] = 8;	 /
+class8.anInt174 = 2635;
+class8.anInt181 = 440;
+class8.anInt190 = 76;
+class8.anInt198 = 1850;
+class8.anInt204 = 0;
+class8.anInt169 = 1;
+class8.anInt194 = 1;
+class8.anInt165 = 187;
+class8.anInt200 = 363;
+class8.anInt175 = 29;
+class8.anInt197 = 87;
+class8.aString170 = "Item";
+class8.aByteArray178 = "Item Description".getBytes();
+}
+
+
+Step 4: Changing a color
+
+To change a color, you must know the original and new color ID.
+Lets say you want to change something red to black.
+
+You would find:
+
+class8.anIntArray156[0] = 926;//dragon red
+
+and change the 926(dragon red), to 0(black). It would then look like this:
+
+class8.anIntArray156[0] = 0;//dragon red
+
+
+
+~END~
+This is all I can think of to help you out. You will get the hang of it sooner or later.
+
+Hope this helped.
+
+
+
+##############################################
+----Galkon(GalkonsPride of Mopar)
+##############################################

@@ -1,0 +1,123 @@
+<newitemdb>
+item members="true"  name="Monkey Bag"  type="9004"> </item>
+<item members="true"  name="Black Party Hat"  type="9091"> </item>
+<item members="true"  name="Rune hat"  type="9092"> </item>
+<item members="true"  name="Rune Whip"  type="9094"> </item>
+<item members="true"  name="Zamorak Robe top"  type="9096"> </item>
+<item members="true"  name="Zamorak Robe Bottom"  type="9097"> </item>
+<item members="true"  name="Zamorak Mitre"  type="9098"> </item>
+<item members="true"  name="Zamorak Cape"  type="9099"> </item>
+<item members="true"  name="Zamorak Crozier"  type="9100"> </item>
+<item members="true"  name="Zamorak Stole"  type="9101"> </item>
+<item members="true"  name="Amulet of Strength"  type="9102"> </item>
+<item members="true"  name="White whip"  type="9106"> </item>
+<item members="true"  name="Blue Crystal shield"  type="9109"> </item>
+<item members="true"  name="Black Crystal shield"  type="9115"> </item>
+<item members="true"  name="Black h'ween Mask"  type="9117"> </item>
+<item members="true"  name="Yellow h'ween Mask"  type="9118"> </item>
+<item members="true"  name="Purple santa hat "  type="10090"> </item>
+<item members="true"  name="Black santa hat "  type="10091"> </item>
+<item members="true"  name="Mithril santa hat "  type="10092"> </item>
+<item members="true"  name="Rune santa hat "  type="10093"> </item>
+<item members="true"  name="Dragon santa hat "  type="10094"> </item>
+<item members="true"  name="Addy santa hat "  type="10095"> </item>
+<item members="true"  name="Gold santa hat "  type="10096"> </item>
+<item members="true"  name="Barrows santa hat "  type="10097"> </item>
+<item members="true"  name="Blue santa hat "  type="10098"> </item>
+<item members="true"  name="Purple santa hat "  type="10099"> </item>
+<item members="true"  name="Orange Whip"  type="10100"> </item>
+<item members="true"  name="Purple Whip"  type="10101"> </item>
+<item members="true"  name="Unknown Color Whip"  type="10102"> </item>
+<item members="true"  name="Red Whip"  type="10103"> </item>
+<item members="true"  name="Blue Whip"  type="10104"> </item>
+<item members="true"  name=" Barrows Whip"  type="10105"> </item>
+<item members="true"  name="Gold Whip"  type="10106"> </item>
+<item members="true"  name="White Whip"  type="10107"> </item>
+<item members="true"  name="Black Party Hat"  type="10108"> </item>
+<item members="true"  name="Orange Party Hat"  type="10109"> </item>
+<item members="true"  name="Gold Party Hat"  type="10110"> </item>
+<item members="true"  name="Grey Party Hat"  type="10111"> </item>
+<item members="true"  name="Bronze Party Hat"  type="10112"> </item>
+<item members="true"  name="Steel Party Hat"  type="10113"> </item>
+<item members="true"  name="Mithril Party Hat"  type="10114"> </item>
+<item members="true"  name="Adamant Party Hat"  type="10115"> </item>
+<item members="true"  name="Rune Party Hat"  type="10116"> </item>
+<item members="true"  name="Dragon Party Hat"  type="10117"> </item>
+<item members="true"  name="Barrows Party Hat"  type="10118"> </item>
+<item members="true"  name="Gilded d-hide body"  type="10124"> </item>
+<item members="true"  name="Gilded d-hide chaps"  type="10125"> </item>
+<item members="true"  name="Rune defender"  type="13601"> </item>
+<item members="true"  name="Dragon defender"  type="13602"> </item>
+<item members="true"  name="Barrows defender"  type="13603"> </item>
+<item members="true"  name="Attack Cape"  type="14073"> </item>
+<item members="true"  name="Attack Cape(t)"  type="14074"> </item>
+<item members="true"  name="Attack Hood"  type="14075"> </item>
+<item members="true"  name="Strength Cape"  type="14076"> </item>
+<item members="true"  name="Strength Cape(t)"  type="14077"> </item>
+<item members="true"  name="Strength Hood"  type="14078"> </item>
+<item members="true"  name="Defence Cape"  type="14079"> </item>
+<item members="true"  name="Defence Cape(t)"  type="14080"> </item>
+<item members="true"  name="Defence Hood"  type="14081"> </item>
+<item members="true"  name="Ranging Cape"  type="14082"> </item>
+<item members="true"  name="Ranging Cape(t)"  type="14083"> </item>
+<item members="true"  name="Range Hood"  type="14084"> </item>
+<item members="true"  name="Prayer Cape"  type="14085"> </item>
+<item members="true"  name="Prayer Cape(t)"  type="14086"> </item>
+<item members="true"  name="Prayer Hood"  type="14087"> </item>
+<item members="true"  name="Magic Cape"  type="14088"> </item>
+<item members="true"  name="Magic Cape(t)"  type="14089"> </item>
+<item members="true"  name="Magic Hood"  type="14090"> </item>
+<item members="true"  name="RuneCrafting Cape"  type="14091"> </item>
+<item members="true"  name="RuneCrafting Cape(t)"  type="14092"> </item>
+<item members="true"  name="RuneCrafting Hood"  type="14093"> </item>
+<item members="true"  name="Hitpoint Cape"  type="14094"> </item>
+<item members="true"  name="Hitpoint Cape(t)"  type="14095"> </item>
+<item members="true"  name="Hitpoint Hood"  type="14096"> </item>
+<item members="true"  name="Agility Cape"  type="14097"> </item>
+<item members="true"  name="Agility Cape(t)"  type="14098"> </item>
+<item members="true"  name="Agility Hood"  type="14099"> </item>
+<item members="true"  name="Herblore Cape"  type="14100"> </item>
+<item members="true"  name="Herblore Cape(t)"  type="14101"> </item>
+<item members="true"  name="Herblore Hood"  type="14102"> </item>
+<item members="true"  name="Thieving Cape"  type="14103"> </item>
+<item members="true"  name="Thieving Cape(t)"  type="14104"> </item>
+<item members="true"  name="Thieving Hood"  type="14105"> </item>
+<item members="true"  name="Crafting Cape"  type="14106"> </item>
+<item members="true"  name="crafting Cape(t)"  type="14107"> </item>
+<item members="true"  name="Crafting Hood"  type="14108"> </item>
+<item members="true"  name="Fletching Cape(t)"  type="14109"> </item>
+<item members="true"  name="Fletching Cape"  type="14110"> </item>
+<item members="true"  name="Fletching Hood"  type="14111"> </item>
+<item members="true"  name="Slayer Cape"  type="14112"> </item>
+<item members="true"  name="Slayer Cape"  type="14113"> </item>
+<item members="true"  name="Slayer Hood"  type="14114"> </item>
+<item members="true"  name="Const. Cape"  type="14115"> </item>
+<item members="true"  name="Const. Cape(t)"  type="14116"> </item>
+<item members="true"  name="Const. Hood"  type="14117"> </item>
+<item members="true"  name="Mining Cape"  type="14118"> </item>
+<item members="true"  name="Mining Cape(t)"  type="14119"> </item>
+<item members="true"  name="Mining Hood"  type="14120"> </item>
+<item members="true"  name="Smithing Cape"  type="14121"> </item>
+<item members="true"  name="Smithing Cape(t)"  type="14122"> </item>
+<item members="true"  name="Smithing Hood"  type="14123"> </item>
+<item members="true"  name="Fishing Cape"  type="14124"> </item>
+<item members="true"  name="Fishing Cape(t)"  type="14125"> </item>
+<item members="true"  name="Fishing Hood"  type="14126"> </item>
+<item members="true"  name="cooking Cape"  type="14127"> </item>
+<item members="true"  name="cooking Cape(t)"  type="14128"> </item>
+<item members="true"  name="Cooking Hood"  type="14129"> </item>
+<item members="true"  name="Firemaking Cape"  type="14130"> </item>
+<item members="true"  name="Firemaking Cape(t)"  type="14131"> </item>
+<item members="true"  name="FireMaking Hood"  type="14132"> </item>
+<item members="true"  name="woodcutting Cape"  type="14133"> </item>
+<item members="true"  name="woodcutting Cape"  type="14134"> </item>
+<item members="true"  name="Woodcutting Hood"  type="14135"> </item>
+<item members="true"  name="Farming Cape"  type="14136"> </item>
+<item members="true"  name="Farming Cape(t)"  type="14137"> </item>
+<item members="true"  name="Farming Hood"  type="14138"> </item>
+<item members="true"  name="Quest Cape"  type="14139"> </item>
+<item members="true"  name="Quest Hood"  type="14140"> </item>
+<item members="true"  name="3rd Age Range Top"  type="14503"> </item>
+<item members="true"  name="3rd Age Range Coif"  type="14504"> </item>
+<item members="true"  name="3rd Age vambraces"  type="14505"> </item>
+</newitemdb>
